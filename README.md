@@ -18,7 +18,13 @@ Hi 👋 My name is James Vongampai
 A Software Engineer
 -------------------
 
-As someone who was practically birthed into the restaurant industry with a family of over 20+ successful years of experience, I witnessed first hand that if something is made with great quality, customers will always come back! And who doesn't love repeat customers? I look at software development in the same way, and have always strived for elegant, appealing, and streamlined user experiences when it comes to user interfaces for our customers/stakeholders. Just like how the rock said, 'Do you smell what The Rock is cooking?' We should be screaming and shouting it what it comes to our code 😂. My most recent project utilizes MongoDB, React, NodeJS, JTW, and Stripe to create an e-commerce aesthetically pleasing front end yet secure backend that shows all of these tools and best practices in action! If you want to talk code or about any exciting opportunities I am always up for it so please do not be shy and reach out through DM or email. Looking forward to it.
+As someone who was practically birthed into the restaurant industry with a family of over 20+ successful years of experience, I witnessed first hand that if something is made with great quality, customers will always come back! And who doesn't love repeat customers? 
+
+I look at software development in the same way, and have always strived for elegant, appealing, and streamlined user experiences when it comes to user interfaces for our customers/stakeholders. Just like what The Rock roared, 'Do you smell what The Rock is cooking?', We should be proudly saying that when we are about to serve our code 😂. 
+
+My most recent project utilizes MongoDB, React, NodeJS, JTW, and Stripe to create an e-commerce single-page app that is aesthetically pleasing on the front end yet secure in the backend. Im definitely excited to add more features to it as I hone in on more skills. 
+
+If you want to talk code or about any exciting opportunities I am always up for it so please do not be shy and reach out through DM or email. Looking forward to it.
 
 * 🌍  I'm based in Mountain View, CA
 * 🖥️  See my portfolio at [Github](http://github.com/jaythomasv29)
