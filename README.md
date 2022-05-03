@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is James Vongampai
 ================================
 
-A Software Engineer
+Software Developer | Javascript, React, Redux, MongoDB, NodeJS ...and Much More! (Constantly Learning is 🔑) 
 -------------------
 
 As someone who was practically birthed into the restaurant industry with a family of over 20+ successful years of experience, I witnessed first hand that if something is made with great quality, customers will always come back! And who doesn't love repeat customers? 
