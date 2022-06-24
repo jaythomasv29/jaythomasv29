@@ -29,7 +29,6 @@ If you want to talk code or about any exciting opportunities I am always up for 
 * 🌍  I'm based in Mountain View, CA
 * 🖥️  See my portfolio at [Github](http://github.com/jaythomasv29)
 * ✉️  You can contact me at [jvongampai@gmail.com](mailto:jvongampai@gmail.com)
-* 🚀  I'm currently working on [Essential Kicks E-Commerce](http://https://github.com/jaythomasv29/llama-ecommerce›)
 * 🧠  I'm learning Redux / React Native
 * 🤝  I'm open to collaborating on Front End Projects and Full Stack Applications
 * ⚡  Cooking, Basketball, and Tech Products
